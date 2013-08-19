@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">yaotest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="say_something">say something...</string>
+	<string name="button">Button</string>
+	<string name="encrypt">encrypt</string>
+</resources>
